@@ -8,6 +8,8 @@ Durante esses anos na área de TI, passei por diversas experiências na área de
 
 Ainda estou em busca da minha primeira experiência profissional.
 
+<img src="/Imagens/FotoEduardo.jpeg">
+
 # Contatos 
 - [GitHub](https://github.com/EduardoPereiraCarvalho)
 - [Linkedin](https://www.linkedin.com/in/eduardo-carvalho-0a1411213/)
