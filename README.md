@@ -74,9 +74,9 @@ As minhas contribuições no primeiro API foram focadas mais na parte do Front-e
 # Soft Skills 
 
 
-* Trabalho em equipe
-Apesar de um pouco de dificuldade, principalmente por conta da adaptação a faculdade, consegui desenvolver essa parte que tinha problemas, graças aos meus colegas de equipe, aprendi a cooperar e dar a minha contribuição individual para o desenvolvimento do projeto.
+* Trabalho em equipe:
+Apesar de um pouco de dificuldade, principalmente por conta da adaptação a faculdade, consegui desenvolver essa parte que tinha problemas, graças aos meus colegas de equipe, aprendi a cooperar e dar a minha contribuição individual e coletiva para o desenvolvimento do projeto.
 
-* Comunicação
-Devido ao fato das aulas serem remotas por conta da pandemia, a comunicação foi um grande desafio, foi necessário usar ferramentas como Teams e Discord para que conseguissemos desenvolver nossoo projeto. 
+* Comunicação:
+Devido ao fato das aulas serem remotas por conta da pandemia, a comunicação foi um grande desafio, foi necessário usar ferramentas como Teams e Discord para que conseguissemos desenvolver nosso projeto. 
 
