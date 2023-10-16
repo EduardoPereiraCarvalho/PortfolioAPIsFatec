@@ -179,6 +179,77 @@ As minhas contribuições no primeiro API foram focadas mais na parte do Front-e
 * Organização, Controle de tempo e Tarefas:
 Um dos grandes problemas que precisei resolver no terceiro semestre foi a questão da organização em relação a tarefas relacionadas ao API quanto a projetos/tarefas de outras matérias do curso, foi necessário procurar ajuda aos professores e alunos de outros semestres, para desenvolver métodos e aprender a ter controle do tempo para ser eficaz nas minhas atividades e terminar tudo em seu devido tempo.
 
+# 2022 - 2/ Quarto Semestre
 
+<span id="topo">
+<p align="center">
+<img src = "./readme/elementos/digital-logo.svg"  width="200"/>
+</p>
+
+<br>
+<br>
+
+<p align="center">
+  <a href ="#o-projeto"> Projeto </a>  • 
+  <a href ="#backlogs">Backlogs, Épicos & User Stories </a>  • 
+  <a href ="#tecnologias-utilizadas"> Tecnologias </a>  •
+ 
+</p>
+<span id="o-projeto">
+
+## :bookmark_tabs: O Projeto
+
+<p align="center"> 
+<img src = "./readme/figma/objetivo.png" width="600"/>
+</p>
+
+→ [Voltar ao topo](#topo)
+
+<span id="backlogs">
+
+## :dart: Backlogs, Épicos & User Stories
+
+<p align="center">
+<img src = "./readme/figma/product-backlog.png" width="550"/>
+<img src = "./readme/figma/sprints-backlog.png" width="550"/>
+<img src = "./readme/figma/epicos-user-stories.png" width="550"/>
+<img src = "./readme/figma/user-stories.png" width="550"/>	
+</p>
+
+→ [Voltar ao topo](#topo)
+
+<span id="modelo-dados">
+
+## :scroll: Modelo de Dados Conceitual
+
+<h5 align="center"><img src = "https://github.com/Grupo1API/2RP/blob/main/readme/elementos/modelo_conceitual.jpg" width="80%"></h5>
+
+## :scroll: Modelo Lógico
+
+<h5 align="center"><img src = "https://github.com/Grupo1API/2RP/blob/main/readme/elementos/modelo_logico.jpg" width="80%"></h5>
+
+→ [Voltar ao topo](#topo)
+
+<span id="cronograma-das-sprints">
+
+
+<span id="codigo">
+
+## 	:computer: Código do Projeto
+
+### :desktop_computer: [Front-end ](https://github.com/Grupo1API/2RP/tree/main/frontend)
+
+### :gear: [Back-end ](https://github.com/Grupo1API/2RP/tree/main/backend)
+
+→ [Voltar ao topo](#topo)
+
+<span id="tecnologias-utilizadas">
+
+## 🖥️ Tecnologias Utilizadas
+
+- **Banco de Dados:** PostgreSQL;
+- **Back-end:** Node.js, Sequelize;
+- **Front-end:** HTML, CSS, TypeScript, React;
+- **Ferramentas:** Visual Studio Code, Figma, Git e Github;
 
 
