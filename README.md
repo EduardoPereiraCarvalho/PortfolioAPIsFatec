@@ -73,7 +73,7 @@ As minhas contribuições no primeiro API foram focadas mais na parte do Front-e
 
 # Hard Skills
 
-- PHP: Sei fazer com auxílio de consultas a sites, documentações, etc.
+- JAVASCRIPT: Sei fazer com auxílio de consultas a sites, documentações, etc.
 - HTML: Sei fazer com autonomia
 - CSS: Sei fazer com autonomia
 
@@ -136,4 +136,49 @@ Devido a um novo tipo de linguagem, outras ferramentas e com novos integrantes n
 
 * Resolução de problemas e Criatividade:
 Foi nosso primeiro API realizado com um cliente externo, foi um grande desafio entender os requisitos do nosso cliente e descobrir a melhor maneira para resolver os problemas do próprio, foi preciso pensar "fora da caixinha" para chegarmos ao nosso objetivo.
+
+
+# 2021 - 1/ Terceiro Semestre
+
+<h3 align="center">Projeto desenvolvido por:</h3>
+<p align="center">
+<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/LogoUniversalDevs.jpg" width="400" height="250" align="center"/>
+</p>  
+
+<h2 align="center">TecSUS</h2>
+
+<p align="center">
+    <a href ="https://github.com/UniversalDevs/Projeto_API_TecSus/blob/main/README.md#-dart-objetivos-do-projeto"> Objetivos do Projeto</a>  •  
+    <a href ="https://github.com/UniversalDevs/Projeto_API_TecSus/blob/main/README.md#wrench-ferramentas--tecnologias-utilizadas"> Ferramentas Utilizadas</a>  • 
+   
+</p> 
+<hr>
+<h3> :dart: Objetivos do Projeto</h3>
+<p>Coleta e processamento de contas de energia, água e gás para diversas empresas dos setores do atacado e varejo. Cada conta coletada precisa ter todos os seus campos digitados e salvos  em  banco  de  dados  para  eventuais  consultas  e  análises  técnicas/financeiras  que  podem trazer ao cliente oportunidades de redução de custos e alteração de contratos.Cada unidade do cliente pode possuir vários contratos (água, energia ou gás), cada contrato pode possuir uma ou mais contas (faturas de água, energia ou gás) por mês.Todos esses contratos estão ligados a uma concessionária de abastecimento.É importante observar que a interface de digitação (cadastro) das contas, deve possuir um UX que facilite a operação de visualização da conta em PDF para digitação dos campos da conta, com uso de atalhos no teclado e navegação via teclas.</p>
+
+<h3>:wrench: Ferramentas & Tecnologias utilizadas</h3>
+<img src="https://github.com/UniversalDevs/Projeto_API_TecSus/blob/main/Documentos/TecnologiasUtilizadas.png" width="800"/>
+<hr>
+
+<p>Para a criação do front-end do projeto, foram utilizadas as tecnologias: CSS3, HTML3, JAVASCRIPT e BOOTSTRAP</p>
+<p>Para a criação do back-end do projeto, foram utilizadas as tecnologias: JAVA e SPRING</p>
+<p>Para a criação do banco de dados do projeto, foi utilizada a tecnologia: POSTGRESQL</h3>
+<p>Para a comunicação do grupo, foi utilizada a tecnologia: DISCORD</p>
+
+# Contribuições Pessoais
+As minhas contribuições no primeiro API foram focadas mais na parte do Front-end, onde junto ao meu colega Felipe Augusto, desenvolvi parte das telas do projeto como o cadastros de contas de energia e água e no cadastro para o controle de contas, tanto na estilização, quanto na criação dos componentes, utilizando as linguagens JAVASCRIPT, HTML e CSS.
+
+# Hard Skills
+
+- JAVASCRIPT: Sei fazer com autonomia
+- HTML: Sei fazer com autonomia
+- CSS: Sei fazer com autonomia
+
+# Soft Skills 
+
+* Organização, Controle de tempo e Tarefas:
+Um dos grandes problemas que precisei resolver no terceiro semestre foi a questão da organização em relação a tarefas relacionadas ao API quanto a projetos/tarefas de outras matérias do curso, foi necessário procurar ajuda aos professores e alunos de outros semestres, para desenvolver métodos e aprender a ter controle do tempo para ser eficaz nas minhas atividades e terminar tudo em seu devido tempo.
+
+
+
 
