@@ -134,9 +134,8 @@ As minhas contribuições no segundo API foram focadas mais na parte do back-end
 * Trabalho em equipe:
 Devido a um novo tipo de linguagem, outras ferramentas e com novos integrantes na equipe, além de ainda ter sido realizado de forma remota por conta da pandemia,o trabalho em equipe foi um grande empecilho mas consegui desenvolver essa parte que tinha problemas, graças aos professores, aprendi a cooperar e dar a minha contribuição individual e coletiva para o desenvolvimento do projeto.
 
-* Resolução de problemas e Criatividade:
-Foi nosso primeiro API realizado com um cliente externo, foi um grande desafio entender os requisitos do nosso cliente e descobrir a melhor maneira para resolver os problemas do próprio, foi preciso pensar "fora da caixinha" para chegarmos ao nosso objetivo.
-
+* Liderança:
+Foi meu primeiro API sendo Scrum Master, foi um desafio no começo gerir todos os problemas que surgiram durante as sprints, como a comunicação da equipe e a entrega das tarefas, além de outras tarefas sendo scrum master, mas graças a ajuda do professor Walmir e a experiência do meu colega Felipe Augusto, consegui gerir todos os problemas.
 
 # 2021 - 1/ Terceiro Semestre
 
@@ -183,7 +182,7 @@ Um dos grandes problemas que precisei resolver no terceiro semestre foi a quest�
 
 <span id="topo">
 <p align="center">
-<img src = "./readme/elementos/digital-logo.svg"  width="200"/>
+<img src = "./Imagens/readme/elementos/digital-logo.svg"  width="200"/>
 </p>
 
 <br>
@@ -200,38 +199,17 @@ Um dos grandes problemas que precisei resolver no terceiro semestre foi a quest�
 ## :bookmark_tabs: O Projeto
 
 <p align="center"> 
-<img src = "./readme/figma/objetivo.png" width="600"/>
+<img src = "./Imagens/readme/figma/objetivo.png" width="600"/>
 </p>
 
-→ [Voltar ao topo](#topo)
 
 <span id="backlogs">
 
-## :dart: Backlogs, Épicos & User Stories
+## :dart: User Stories
 
 <p align="center">
-<img src = "./readme/figma/product-backlog.png" width="550"/>
-<img src = "./readme/figma/sprints-backlog.png" width="550"/>
-<img src = "./readme/figma/epicos-user-stories.png" width="550"/>
-<img src = "./readme/figma/user-stories.png" width="550"/>	
+<img src = "./Imagens/readme/figma/user-stories.png" width="550"/>	
 </p>
-
-→ [Voltar ao topo](#topo)
-
-<span id="modelo-dados">
-
-## :scroll: Modelo de Dados Conceitual
-
-<h5 align="center"><img src = "https://github.com/Grupo1API/2RP/blob/main/readme/elementos/modelo_conceitual.jpg" width="80%"></h5>
-
-## :scroll: Modelo Lógico
-
-<h5 align="center"><img src = "https://github.com/Grupo1API/2RP/blob/main/readme/elementos/modelo_logico.jpg" width="80%"></h5>
-
-→ [Voltar ao topo](#topo)
-
-<span id="cronograma-das-sprints">
-
 
 <span id="codigo">
 
@@ -241,7 +219,6 @@ Um dos grandes problemas que precisei resolver no terceiro semestre foi a quest�
 
 ### :gear: [Back-end ](https://github.com/Grupo1API/2RP/tree/main/backend)
 
-→ [Voltar ao topo](#topo)
 
 <span id="tecnologias-utilizadas">
 
@@ -250,6 +227,30 @@ Um dos grandes problemas que precisei resolver no terceiro semestre foi a quest�
 - **Banco de Dados:** PostgreSQL;
 - **Back-end:** Node.js, Sequelize;
 - **Front-end:** HTML, CSS, TypeScript, React;
-- **Ferramentas:** Visual Studio Code, Figma, Git e Github;
+- **Ferramentas:** Visual Studio Code, Figma, Git e Github, Whatsapp;
 
+<p>Para a criação do front-end do projeto, foram utilizadas as tecnologias: CSS3, HTML3, TYPESCRIPT e REACT</p>
+<p>Para a criação do back-end do projeto, foram utilizadas as tecnologias: NODEJS e SEQUELIZE</p>
+<p>Para a criação do banco de dados do projeto, foi utilizada a tecnologia: POSTGRESQL</h3>
+<p>Para a comunicação do grupo, foi utilizada a tecnologia: WHATSAPP</p>
+<p>Para a criação de modelos de página, foi utilizada a tecnologia: FIGMA</p>
+
+# Contribuições Pessoais
+As minhas contribuições no quarto API foram focadas no back-end e front-end, desenvolvi parte das telas do cadastramento de horas-extras, aprovação das horas-extras e cadastro de usuários tanto na estilização, quanto na criação dos componentes, utilizando as linguagens TYPESCRIPT, REACT, HTML e CSS. Além disso desenvolvi o back-end das páginas citadas e integrei elas ao front-end.
+
+# Hard Skills
+
+- TYPESCRIPT: Sei fazer com auxílio de consultas a sites, documentações, etc.
+- REACT: Sei fazer com auxílio de consultas a sites, documentações, etc.
+- HTML: Sei fazer com autonomia
+- CSS: Sei fazer com autonomia
+- NODEJS: Sei fazer com auxílio de consultas a sites, documentações, etc.
+
+# Soft Skills 
+
+* Resolução de problemas e Criatividade:
+Foi um grande desafio entender os requisitos do nosso cliente e descobrir a melhor maneira para resolver os problemas do próprio, foi preciso pensar "fora da caixinha" para chegarmos ao nosso objetivo.
+
+* Resilência:
+Devido a novas ferramentas que foram necessária usar nesse API, foi importante se adptar novamente, ocorreram diversos problemas em relação ao desenvolvimento do projeto, foi a partir de erros que fui entendendo as novas ferramentas e a partir daí, procurar soluções para resolver os problemas.
 
