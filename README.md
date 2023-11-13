@@ -119,6 +119,7 @@ Foi meu primeiro API sendo Scrum Master, foi um desafio no começo gerir todos o
 
 <h2 align="center">TecSUS</h2>
 
+Link para acesso ao github: (https://github.com/UniversalDevs/Projeto_API_TecSus)
 
 <h3> :dart: Objetivos do Projeto</h3>
 <p>Coleta e processamento de contas de energia, água e gás para diversas empresas dos setores do atacado e varejo. Cada conta coletada precisa ter todos os seus campos digitados e salvos  em  banco  de  dados  para  eventuais  consultas  e  análises  técnicas/financeiras  que  podem trazer ao cliente oportunidades de redução de custos e alteração de contratos.Cada unidade do cliente pode possuir vários contratos (água, energia ou gás), cada contrato pode possuir uma ou mais contas (faturas de água, energia ou gás) por mês.Todos esses contratos estão ligados a uma concessionária de abastecimento.É importante observar que a interface de digitação (cadastro) das contas, deve possuir um UX que facilite a operação de visualização da conta em PDF para digitação dos campos da conta, com uso de atalhos no teclado e navegação via teclas.</p>
@@ -152,6 +153,8 @@ Um dos grandes problemas que precisei resolver no terceiro semestre foi a quest�
 <p align="center">
 <img src = "./Imagens/readme/elementos/digital-logo.svg"  width="200"/>
 </p>
+
+Link para acesso ao github: (https://github.com/Grupo1API/2RP)
 
 <br>
 <br>
@@ -211,6 +214,7 @@ Foi um grande desafio entender os requisitos do nosso cliente e descobrir a melh
 <img src="https://github.com/CodeLabFatec/EquipControl/blob/main/assets/logo-equip-control.png" width="400" height="250" align="center"/>
 </p>  
 
+Link para acesso ao github: (https://github.com/CodeLabFatec/EquipControl)
 <h2 align="center">EquipControl</h2>
 
 
