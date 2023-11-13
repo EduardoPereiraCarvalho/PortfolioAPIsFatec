@@ -2,9 +2,9 @@
 Repositório dedicado para a documentação dos APIs realizados no curso de Análise e Desenvolvimento de Sistemas, orientado pelos professores Fernando Masanori e Emanuel Mineda.
 
 # Introdução
-Sou Eduardo, tenho 20 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Fatec São José dos Campos. Também tenho formação como técnico em informática, concluído na Etec São José dos Campos.
+Sou Eduardo, tenho 20 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Fatec São José dos Campos. Também tenho formação como técnico em informática, concluída na Etec São José dos Campos.
 
-Durante esses anos na área de TI, passei por diversas experiências na área de desenvolvimento, aprendi linguagens como Java, C++, Python, JavaScript, entre outros. Acabei me identificando mais com a parte de Front-end, onde busco adquirir ainda mais conhecimento. 
+Durante esses anos na área de TI, passei por diversas experiências na área de desenvolvimento, aprendi linguagens como Java, C++, Python, JavaScript, entre outros. Acabei me identificando mais com a parte de Front-end, onde busco adquirir ainda mais conhecimento.
 
 Ainda estou em busca da minha primeira experiência profissional.
 
@@ -16,7 +16,7 @@ Ainda estou em busca da minha primeira experiência profissional.
 
 # Meus Principais Conhecimentos
 
-Como meus estudos mais focados na parte de Front-end, acabei desenvolvendo conhecimentos em CSS, HTML, JAVASCRIPT e TYPESCRIPT, além do framework REACT e agora procurando aprender REACT NATIVE. Para o futuro, pretendo aprender, entender e trabalhar com o framework ANGULAR.
+Como meus estudos mais focados na parte de Front-end, acabei desenvolvendo conhecimentos em CSS, HTML, JavaScript e TypeScript, além do framework React e agora procurando aprender React Native. Para o futuro, pretendo aprender, entender e trabalhar com o framework Angular.
 
 <div style="display: inline_block"><br>
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
@@ -59,7 +59,7 @@ Como meus estudos mais focados na parte de Front-end, acabei desenvolvendo conhe
 <hr>
 
 # Contribuições Pessoais
-As minhas contribuições no primeiro API foram focadas mais na parte do Front-end, onde junto ao meu colega Gabriel Ramos, desenvolvi parte das telas do projeto como o cadastros de usuários e cadastros de projetos, tanto na estilização, quanto na criação dos componentes, utilizando as linguagens JAVASCRIPT, HTML e CSS.
+As minhas contribuições no primeiro API foram focadas mais na parte do Front-end, onde, junto com meu colega Gabriel Ramos, desenvolvi parte das telas do projeto, como o cadastro de usuários e o cadastro de projetos, tanto na estilização quanto na criação dos componentes, utilizando as linguagens JavaScript, HTML e CSS.
 
 # Hard Skills
 
@@ -71,10 +71,10 @@ As minhas contribuições no primeiro API foram focadas mais na parte do Front-e
 
 
 * Trabalho em equipe:
-Apesar de um pouco de dificuldade, principalmente por conta da adaptação a faculdade, consegui desenvolver essa parte onde tinha pontos a serem desenvolvidos , graças aos meus colegas de equipe, aprendi a cooperar e dar a minha contribuição individual e coletiva para o desenvolvimento do projeto.
+Apesar de um pouco de dificuldade, principalmente por conta da adaptação à faculdade, consegui desenvolver essa parte onde tinha pontos a serem desenvolvidos, graças aos meus colegas de equipe. Aprendi a cooperar e dar a minha contribuição individual e coletiva para o desenvolvimento do projeto.
 
 * Comunicação:
-Devido ao fato das aulas serem remotas por conta da pandemia, a comunicação foi um grande desafio, foi necessário usar ferramentas como Teams e Discord para que conseguissemos desenvolver nosso projeto.
+Devido ao fato das aulas serem remotas por conta da pandemia, a comunicação foi um grande desafio. Foi necessário usar ferramentas como Teams e Discord para que conseguíssemos desenvolver nosso projeto.
 
 #
 # 2021 - 2/ Segundo Semestre 
@@ -98,7 +98,7 @@ Devido ao fato das aulas serem remotas por conta da pandemia, a comunicação fo
 <p>Para a comunicação do grupo, foi utilizada a tecnologia: DISCORD</p>
 
 # Contribuições Pessoais
-As minhas contribuições no segundo API foram focadas mais na parte do back-end, onde junto aos meus colega Gabriel Ramos e Dante Silva, desenvolvi parte dos cadastros de usuários,clientes e colaboradores e também, integrando back-end ao front-end, utilizando a linguagem PYTHON e o Framework DJANGO.
+As minhas contribuições no segundo API foram focadas mais na parte do back-end, onde, junto com meus colegas Gabriel Ramos e Dante Silva, desenvolvi parte dos cadastros de usuários, clientes e colaboradores e também integrei o back-end ao front-end, utilizando a linguagem Python e o framework Django.
 
 # Hard Skills
 
@@ -109,10 +109,10 @@ As minhas contribuições no segundo API foram focadas mais na parte do back-end
 
 
 * Trabalho em equipe:
-Devido a um novo tipo de linguagem, outras ferramentas e com novos integrantes na equipe, além de ainda ter sido realizado de forma remota por conta da pandemia,o trabalho em equipe foi um grande empecilho mas consegui desenvolver essa parte que tinha problemas, graças aos professores, aprendi a cooperar e dar a minha contribuição individual e coletiva para o desenvolvimento do projeto.
+Devido a uma nova linguagem, outras ferramentas e a entrada de novos integrantes na equipe, além de ainda ter sido realizado de forma remota por conta da pandemia, o trabalho em equipe foi um grande desafio, mas consegui desenvolver essa parte que tinha problemas. Graças aos professores, aprendi a cooperar e dar a minha contribuição individual e coletiva para o desenvolvimento do projeto.
 
 * Liderança:
-Foi meu primeiro API sendo Scrum Master, foi um desafio no começo gerir todos os problemas que surgiram durante as sprints, como a comunicação da equipe e a entrega das tarefas, além de outras tarefas sendo scrum master, mas graças a ajuda do professor Walmir e a experiência do meu colega Felipe Augusto, consegui gerir todos os problemas.
+Foi meu primeiro API sendo Scrum Master, foi um desafio no começo gerir todos os problemas que surgiram durante as sprints, como a comunicação da equipe e a entrega das tarefas, além de outras tarefas sendo Scrum Master. Mas, graças à ajuda do professor Walmir e à experiência do meu colega Felipe Augusto, consegui gerir todos os problemas.
 
 # 2021 - 1/ Terceiro Semestre
 
@@ -137,7 +137,7 @@ Foi meu primeiro API sendo Scrum Master, foi um desafio no começo gerir todos o
 <p>Para a comunicação do grupo, foi utilizada a tecnologia: DISCORD</p>
 
 # Contribuições Pessoais
-As minhas contribuições no primeiro API foram focadas mais na parte do Front-end, onde junto ao meu colega Felipe Augusto, desenvolvi parte das telas do projeto como o cadastros de contas de energia e água e no cadastro para o controle de contas, tanto na estilização, quanto na criação dos componentes, utilizando as linguagens JAVASCRIPT, HTML e CSS.
+As minhas contribuições no primeiro API foram focadas mais na parte do Front-end, onde, junto com o meu colega Felipe Augusto, desenvolvi parte das telas do projeto, como o cadastro de contas de energia e água e o cadastro para o controle de contas, tanto na estilização quanto na criação dos componentes, utilizando as linguagens JavaScript, HTML e CSS.
 
 # Hard Skills
 
@@ -148,7 +148,7 @@ As minhas contribuições no primeiro API foram focadas mais na parte do Front-e
 # Soft Skills 
 
 * Organização, Controle de tempo e Tarefas:
-Um dos grandes problemas que precisei resolver no terceiro semestre foi a questão da organização em relação a tarefas relacionadas ao API quanto a projetos/tarefas de outras matérias do curso, foi necessário procurar ajuda aos professores e alunos de outros semestres, para desenvolver métodos e aprender a ter controle do tempo para ser eficaz nas minhas atividades e terminar tudo em seu devido tempo.
+Um dos grandes problemas que precisei resolver no terceiro semestre foi a questão da organização em relação a tarefas relacionadas ao API, bem como a projetos/tarefas de outras matérias do curso. Foi necessário procurar ajuda aos professores e alunos de outros semestres para desenvolver métodos e aprender a ter controle do tempo para ser eficaz nas minhas atividades e terminar tudo em seu devido tempo.
 
 # 2022 - 2/ Quarto Semestre
 
@@ -194,7 +194,7 @@ Um dos grandes problemas que precisei resolver no terceiro semestre foi a quest�
 <p>Para a criação de modelos de página, foi utilizada a tecnologia: FIGMA</p>
 
 # Contribuições Pessoais
-As minhas contribuições no quarto API foram focadas no back-end e front-end, desenvolvi parte das telas do cadastramento de horas-extras, aprovação das horas-extras e cadastro de usuários tanto na estilização, quanto na criação dos componentes, utilizando as linguagens TYPESCRIPT, REACT, HTML e CSS. Além disso desenvolvi o back-end das páginas citadas e integrei elas ao front-end.
+As minhas contribuições no quarto API foram focadas no back-end e front-end. Desenvolvi parte das telas do cadastramento de horas-extras, aprovação das horas-extras e cadastro de usuários, tanto na estilização quanto na criação dos componentes, utilizando as linguagens TypeScript, React, HTML e CSS. Além disso, desenvolvi o back-end das páginas citadas e integrei-as ao front-end.
 
 # Hard Skills
 
@@ -207,8 +207,7 @@ As minhas contribuições no quarto API foram focadas no back-end e front-end, d
 # Soft Skills 
 
 * Resolução de problemas e Criatividade:
-Foi um grande desafio entender os requisitos do nosso cliente e descobrir a melhor maneira para resolver os problemas do próprio, foi preciso pensar "fora da caixinha" para chegarmos ao nosso objetivo.
-
+Foi um grande desafio entender os requisitos do nosso cliente e descobrir a melhor maneira de resolver os problemas dele. Foi preciso pensar "fora da caixinha" para chegarmos ao nosso objetivo.
 * Resilência:
-Devido a novas ferramentas que foram necessária usar nesse API, foi importante se adptar novamente, ocorreram diversos problemas em relação ao desenvolvimento do projeto, foi a partir de erros que fui entendendo as novas ferramentas e a partir daí, procurar soluções para resolver os problemas.
+Devido a novas ferramentas que foram necessárias usar neste API, foi importante se adaptar novamente. Ocorreram diversos problemas em relação ao desenvolvimento do projeto. Foi a partir dos erros que fui entendendo as novas ferramentas e, a partir daí, procurar soluções para resolver os problemas.
 
