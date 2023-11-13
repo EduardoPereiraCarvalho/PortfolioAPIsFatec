@@ -35,11 +35,6 @@ Como meus estudos mais focados na parte de Front-end, acabei desenvolvendo conhe
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/LogoUniversalDevs.jpg" width="400" height="250" align="center"/>
 </p>  
 
-<p align="center">
-  <a href ="https://github.com/UniversalDevs/Projeto_API/blob/main/README.md#-dart-objetivos-do-projeto"> Objetivos do Projeto</a>  • 
-  <a href ="https://github.com/UniversalDevs/Projeto_API/blob/main/README.md#pushpin-requisitos-do-cliente"> Requisitos do Cliente</a>  • 
-   <a href ="https://github.com/UniversalDevs/Projeto_API/blob/main/README.md#wrench-ferramentas--tecnologias-utilizadas"> Ferramentas Utilizadas</a>  • 
-</p>
 <hr>
 <p align="center">
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/logo.PNG?raw=true" width="200" height="100" />
@@ -49,14 +44,9 @@ Como meus estudos mais focados na parte de Front-end, acabei desenvolvendo conhe
 <h3> :dart: Objetivos do Projeto</h2>
 <p>Criar uma aplicação capaz de emitir relatórios mensais apresentando o quadro de presença de colaboradores em postos de trabalhos acordados em contrato, para uma empresa de tercerização de serviços. </p>
 <hr>
-<h3>:pushpin: Requisitos do cliente</h3>
-<p>:ballot_box_with_check: Cadastro de Voluntários</p>
-<p>:ballot_box_with_check: Cadastro de Participantes</p>
-<p>:ballot_box_with_check: Cadastro de Projetos</p>
-<p>:ballot_box_with_check: Aprovação de Projetos</p>
 
 <h3>:wrench: Ferramentas & Tecnologias utilizadas</h3>
-<img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Documentos/Ferramentas%20e%20Tecnologias%20utilizadas.png"/>
+<img src="https://github.com/EduardoPereiraCarvalho/PortfolioAPIsFatec/blob/main/Imagens/sprint1.png"/>
 <hr>
 
 <p>Para a criação do front-end do projeto, foram utilizadas as tecnologias: CSS, HTML e JAVASCRIPT</p>
@@ -94,26 +84,13 @@ Devido ao fato das aulas serem remotas por conta da pandemia, a comunicação fo
 <img src="https://github.com/UniversalDevs/Projeto_API/blob/main/Imagens/LogoUniversalDevs.jpg" width="400" height="250" align="center"/>
 </p>  
 
-<p align="center">
-  <a href ="https://github.com/gbrramos/API_ADS_2021_2#-dart-objetivos-do-projeto"> Objetivos do Projeto</a>  • 
-  <a href ="https://github.com/gbrramos/API_ADS_2021_2#pushpin-requisitos-do-cliente"> Requisitos do Cliente</a>  • 
-  <a href ="https://github.com/gbrramos/API_ADS_2021_2#wrench-ferramentas--tecnologias-utilizadas"> Ferramentas Utilizadas</a>  • 
-  
-</p>
  Link para acesso ao github: (https://github.com/gbrramos/API_ADS_2021_2)
 <hr>
 <h3> :dart: Objetivos do Projeto</h2>
 <p>Criar uma aplicação capaz de emitir relatórios mensais apresentando o quadro de presença de colaboradores em postos de trabalhos acordados em contrato, para uma empresa de tercerização de serviços. </p>
-<hr>
 
-<h3>:pushpin: Requisitos do cliente</h3>
-<p>:ballot_box_with_check: Cadastros de Usuários, Contratos, Clientes, Colaboradores, Postos de Trabalho, Alocações, Quadro Presença</p>
-<p>:ballot_box_with_check: Usuários devem ter perfis diferentes: Operacional e Tático</p>
-<p>:ballot_box_with_check: Lançamento do quadro de presenças</p>
-<p>:ballot_box_with_check: Emissão de Relatórios</p>
-<hr>
 <h3>:wrench: Ferramentas & Tecnologias utilizadas</h3>
-<img src="https://github.com/gbrramos/API_ADS_2021_2/blob/main/Documentacao/FerramentasUtilizadasAPI.PNG"/>
+<img src="https://github.com/EduardoPereiraCarvalho/PortfolioAPIsFatec/blob/main/Imagens/sprint2.png"/>
 <hr>
 <p>Para a criação do front-end do projeto, foram utilizadas as tecnologias: CSS3, HTML3, JAVASCRIPT e BOOTSTRAP</p>
 <p>Para a criação do back-end do projeto, foram utilizadas as tecnologias: PYTHON e DJANGO</p>
@@ -146,17 +123,12 @@ Foi meu primeiro API sendo Scrum Master, foi um desafio no começo gerir todos o
 
 <h2 align="center">TecSUS</h2>
 
-<p align="center">
-    <a href ="https://github.com/UniversalDevs/Projeto_API_TecSus/blob/main/README.md#-dart-objetivos-do-projeto"> Objetivos do Projeto</a>  •  
-    <a href ="https://github.com/UniversalDevs/Projeto_API_TecSus/blob/main/README.md#wrench-ferramentas--tecnologias-utilizadas"> Ferramentas Utilizadas</a>  • 
-   
-</p> 
 <hr>
 <h3> :dart: Objetivos do Projeto</h3>
 <p>Coleta e processamento de contas de energia, água e gás para diversas empresas dos setores do atacado e varejo. Cada conta coletada precisa ter todos os seus campos digitados e salvos  em  banco  de  dados  para  eventuais  consultas  e  análises  técnicas/financeiras  que  podem trazer ao cliente oportunidades de redução de custos e alteração de contratos.Cada unidade do cliente pode possuir vários contratos (água, energia ou gás), cada contrato pode possuir uma ou mais contas (faturas de água, energia ou gás) por mês.Todos esses contratos estão ligados a uma concessionária de abastecimento.É importante observar que a interface de digitação (cadastro) das contas, deve possuir um UX que facilite a operação de visualização da conta em PDF para digitação dos campos da conta, com uso de atalhos no teclado e navegação via teclas.</p>
 
 <h3>:wrench: Ferramentas & Tecnologias utilizadas</h3>
-<img src="https://github.com/UniversalDevs/Projeto_API_TecSus/blob/main/Documentos/TecnologiasUtilizadas.png" width="800"/>
+<img src="https://github.com/EduardoPereiraCarvalho/PortfolioAPIsFatec/blob/main/Imagens/sprint3.png" width="800"/>
 <hr>
 
 <p>Para a criação do front-end do projeto, foram utilizadas as tecnologias: CSS3, HTML3, JAVASCRIPT e BOOTSTRAP</p>
@@ -188,28 +160,14 @@ Um dos grandes problemas que precisei resolver no terceiro semestre foi a quest�
 <br>
 <br>
 
-<p align="center">
-  <a href ="#o-projeto"> Projeto </a>  • 
-  <a href ="#backlogs">Backlogs, Épicos & User Stories </a>  • 
-  <a href ="#tecnologias-utilizadas"> Tecnologias </a>  •
- 
-</p>
 <span id="o-projeto">
 
-## :bookmark_tabs: O Projeto
 
-<p align="center"> 
-<img src = "./Imagens/readme/figma/objetivo.png" width="600"/>
-</p>
+<hr>
+<h3> :dart: Objetivos do Projeto</h2>
+<p> O objetivo do projeto consiste na produção de um sistema WEB que realize o controle da jornada de trabalho do colaborador, permitindo o apontamento e classficação de horas extras/sobreaviso, possibilitando a extração padronizada das horas executas. </p>
+<hr>
 
-
-<span id="backlogs">
-
-## :dart: User Stories
-
-<p align="center">
-<img src = "./Imagens/readme/figma/user-stories.png" width="550"/>	
-</p>
 
 <span id="codigo">
 
@@ -220,7 +178,7 @@ Um dos grandes problemas que precisei resolver no terceiro semestre foi a quest�
 ### :gear: [Back-end ](https://github.com/Grupo1API/2RP/tree/main/backend)
 
 
-<span id="tecnologias-utilizadas">
+<img src="https://github.com/EduardoPereiraCarvalho/PortfolioAPIsFatec/blob/main/Imagens/sprint3.png" width="800"/>
 
 ## 🖥️ Tecnologias Utilizadas
 
