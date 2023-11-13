@@ -54,10 +54,6 @@ Como meus estudos mais focados na parte de Front-end, acabei desenvolvendo conhe
 <p>Para a criação do banco de dados do projeto, foi utilizada a tecnologia: SQL</h3>
 <p>Para a comunicação do grupo, foi utilizada a tecnologia: DISCORD</p>
 
-# <h3> :video_camera: Vídeos </h3>
-<p> Além das funcionalidades apresentadas nas Sprints, também é possível encontrar o vídeo de funcionamento no Youtube. Basta acessar: <a href="https://www.youtube.com/channel/UC6D5OZQM6pQ6aJcerT88fjg"> Universal Devs</a></p>
-<hr>
-
 # Contribuições Pessoais
 As minhas contribuições no primeiro API foram focadas mais na parte do Front-end, onde, junto com meu colega Gabriel Ramos, desenvolvi parte das telas do projeto, como o cadastro de usuários e o cadastro de projetos, tanto na estilização quanto na criação dos componentes, utilizando as linguagens JavaScript, HTML e CSS.
 
